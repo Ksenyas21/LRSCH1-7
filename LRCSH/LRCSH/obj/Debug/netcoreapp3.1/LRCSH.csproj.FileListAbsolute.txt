@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LRCSH\LRCSH\obj\Debug\netcoreapp3.1\LRCSH.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LRCSH\LRCSH\obj\Debug\netcoreapp3.1\LRCSH.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LRCSH\LRCSH\obj\Debug\netcoreapp3.1\LRCSH.AssemblyInfo.cs
+C:\Users\User\source\repos\LRCSH\LRCSH\bin\Debug\netcoreapp3.1\LRCSH.exe
+C:\Users\User\source\repos\LRCSH\LRCSH\bin\Debug\netcoreapp3.1\LRCSH.deps.json
+C:\Users\User\source\repos\LRCSH\LRCSH\bin\Debug\netcoreapp3.1\LRCSH.runtimeconfig.json
+C:\Users\User\source\repos\LRCSH\LRCSH\bin\Debug\netcoreapp3.1\LRCSH.runtimeconfig.dev.json
+C:\Users\User\source\repos\LRCSH\LRCSH\bin\Debug\netcoreapp3.1\LRCSH.dll
+C:\Users\User\source\repos\LRCSH\LRCSH\bin\Debug\netcoreapp3.1\LRCSH.pdb
+C:\Users\User\source\repos\LRCSH\LRCSH\obj\Debug\netcoreapp3.1\LRCSH.dll
+C:\Users\User\source\repos\LRCSH\LRCSH\obj\Debug\netcoreapp3.1\LRCSH.pdb
